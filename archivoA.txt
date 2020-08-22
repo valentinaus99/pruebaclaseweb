@@ -1,4 +1,2 @@
 primera linea de prueba
-esta es la segunda linea del archivo de prueba
-esta es la tercera linea de prueba de web 
-ultima linea del commit 8
+esta es la segunda linea del archivo de prueba 7
